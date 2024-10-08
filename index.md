@@ -5,7 +5,7 @@
 
 
 2. Romans 6:23
-"For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord."
+> "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord."
 
 
 3. Ephesians 2:8-9
